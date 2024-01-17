@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  Alejandro Guarin ✨ </h1> 
+<h1 align="center">Hola 👋  Alejandro Guarin 👋 </h1> 
 
 <p align="left">
   <a href="https://www.instagram.com/uxui_guarin/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white" alt="GuarinX"  /></a>
