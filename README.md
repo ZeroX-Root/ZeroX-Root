@@ -3,7 +3,6 @@
 <p align="left">
   <a href="https://www.instagram.com/uxui_guarin/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white" alt="GuarinX"  /></a>
   <a href="https://www.linkedin.com/in/alejandro-guarin-melo-b6a415281/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GuarinX"  /></a>
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)]
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
