@@ -9,11 +9,11 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Desarrollador Backend en proceso de aprendizaje
+🎓 Ingeniero de datos en proceso de aprendizaje
 
-📝 roles en el ámbito: desarrollador, emprendedor y en un futuro quién sabe.
+📝 roles en el ámbito: analista, desarrollador, emprendedor y en un futuro quién sabe.
 
-📫 Contacto: **guarinmelo797@gmail.com**
+📫 Contacto: **alejandro.guarin.dev@gmail.com**
 <!--Intro end-->
   </p>
 <br>
@@ -22,7 +22,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pyhton,cloud,pandas,mysql,git,github" />
+    [![My Skills](https://skillicons.dev/icons?i=py,gcp,mysql,git,github,vscode,powershell)](https://skillicons.dev)
   </a>
 </p>
 
