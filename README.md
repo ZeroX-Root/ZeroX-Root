@@ -20,9 +20,9 @@
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    [![My Skills](https://skillicons.dev/icons?i=py,gcp,mysql,git,github,vscode,powershell)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=py,gcp,mysql,git,github,vscode,powershell" />
   </a>
 </p>
 
