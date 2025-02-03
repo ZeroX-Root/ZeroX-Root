@@ -9,9 +9,19 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Ingeniero de datos en proceso de aprendizaje
+🎓 Ingeniero de datos en formación
+📊 Roles en el ámbito: Analista, desarrollador, emprendedor y, en el futuro, quién sabe.
 
-📝 roles en el ámbito: analista, desarrollador, emprendedor y en un futuro quién sabe.
+🚀 Desarrollador de aplicaciones móviles con React Native
+
+* Creación de aplicaciones multiplataforma (iOS y Android) con React Native.
+* Desarrollo de interfaces de usuario (UI) atractivas y responsivas.
+* Integración de APIs y servicios backend para funcionalidades dinámicas.
+* Optimización del rendimiento de aplicaciones para una experiencia de usuario fluida.
+* Implementación de buenas prácticas de código y arquitecturas escalables.
+* Colaboración en equipos multidisciplinarios para entregar soluciones innovadoras.
+
+💡 En constante aprendizaje y mejora para ofrecer soluciones de calidad.
 
 📫 Contacto: **alejandro.guarin.dev@gmail.com**
 <!--Intro end-->
@@ -22,7 +32,7 @@
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,js,git,github,vscode,powershell" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,git,github,vscode,powershell" />
   </a>
 </p>
 
