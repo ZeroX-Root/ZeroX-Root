@@ -22,7 +22,7 @@
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,git,github,vscode,powershell" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,js,git,github,vscode,powershell" />
   </a>
 </p>
 
