@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="GuarinX"/></a>
-  <a href="https://www.instagram.com/dev.guarin/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=dd2a7b" alt="GuarinX"  /></a>
+  <a href="https://www.instagram.com/guarindev/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=dd2a7b" alt="GuarinX"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
