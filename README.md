@@ -9,9 +9,9 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Ingeniero de datos en formación
+🎓 Ingeniero Informatico
   
-📊 Roles en el ámbito: Analista, desarrollador, emprendedor y, en el futuro, quién sabe.
+📊 Roles en el ámbito: desarrollador, emprendedor y, en el futuro, quién sabe.
 
 🚀 Desarrollador de aplicaciones móviles con React Native
 
