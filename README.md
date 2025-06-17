@@ -13,7 +13,7 @@
   
 📊 Roles en el ámbito: desarrollador, emprendedor y, en el futuro, quién sabe.
 
-🚀 Desarrollador de aplicaciones móviles con React Native
+🚀 Desarrollador Web
 
 * Creación de aplicaciones multiplataforma (iOS y Android) con React Native.
 * Desarrollo de interfaces de usuario (UI) atractivas y responsivas.
