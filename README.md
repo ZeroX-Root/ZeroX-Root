@@ -15,10 +15,15 @@
 
 🚀 Desarrollador Web
 Desarrollo de sitios y aplicaciones web modernas utilizando HTML, CSS/SCSS, JavaScript y frameworks como React.
+
 Creación de interfaces de usuario (UI) atractivas, accesibles y totalmente responsivas.
+
 Integración de APIs REST y servicios backend para funcionalidades dinámicas.
+
 Optimización del rendimiento web para una experiencia rápida y fluida en todos los dispositivos.
+
 Aplicación de buenas prácticas de desarrollo: código limpio, modular y mantenible.
+
 Trabajo colaborativo en equipos multidisciplinarios para crear soluciones digitales efectivas.
 
 💡 En constante aprendizaje y mejora para ofrecer soluciones de calidad.
