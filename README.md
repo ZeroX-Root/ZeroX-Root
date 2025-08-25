@@ -33,5 +33,3 @@
     <img src="https://skillicons.dev/icons?i=python,bash,git,github,kali,metasploit,wireshark" />
   </a>
 </p>
-
----
