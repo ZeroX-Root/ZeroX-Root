@@ -1,7 +1,6 @@
-<h1 align="center">Hola 👋 Soy Zero</h1> 
+<h1 align="center">Hola Soy Zero</h1> 
 
-<h2>Sobre mí 😎</h2>
-
+<h2>Sobre mí </h2>
 <p>
 🎓 Ingeniero Informático  
 
