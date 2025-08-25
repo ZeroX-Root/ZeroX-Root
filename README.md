@@ -1,16 +1,5 @@
 <h1 align="center">Hola 👋 Soy Zero</h1> 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/guarindev/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=dd2a7b" alt="Instagram"/>
-  </a>
-</p>
-
----
-
 <h2>Sobre mí 😎</h2>
 
 <p>
