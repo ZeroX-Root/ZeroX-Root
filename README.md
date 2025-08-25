@@ -1,7 +1,7 @@
 <h1 align="center">Hola Soy Zero</h1> 
 
 <h2>Sobre mí </h2>
-<p>
+
 🎓 Ingeniero Informático  
 
 🔐 Apasionado por la ciberseguridad ofensiva y el hacking ético. Me concentro en **phishing**, pruebas de penetración, exploits y técnicas ofensivas controladas para identificar vulnerabilidades y mejorar la seguridad.
