@@ -10,7 +10,7 @@
 
 🚀 Siempre aprendiendo nuevas técnicas y aplicando buenas prácticas para mantener un enfoque profesional y responsable.
 
-📫 Contacto: <b></b>
+📫 Contacto: zero-root.sec@proton.me<b></b>
 </p>
 
 ---
