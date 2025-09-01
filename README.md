@@ -18,7 +18,8 @@
 <h2>Herramientas y Tecnologías 🛠️</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,git,github,kali,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,bash,git,github,kali,cpp&theme=dark" />
+
   </a>
 </p>
 
