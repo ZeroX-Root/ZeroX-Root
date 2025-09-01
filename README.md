@@ -36,16 +36,6 @@
 
 ---
 
-<h2>Proyectos Destacados 🧰</h2>
-<ul>
-  <li><b>Phishing Scripts:</b> Simulaciones educativas de phishing en entornos controlados.</li>
-  <li><b>WebScraping para Pentesting:</b> Extracción de datos de sitios web para pruebas de auditoría.</li>
-  <li><b>Herramientas de Auditoría:</b> Scripts y automatizaciones en Python y Bash para pruebas de vulnerabilidades.</li>
-  <li><b>Laboratorios de Exploits:</b> Experimentos con payloads y exploits en máquinas virtuales y CTFs.</li>
-</ul>
-
----
-
 <h2>⚠️ Disclaimer</h2>
 <p>
 Este contenido es únicamente con fines educativos y éticos. No usar en sistemas ajenos sin autorización. Todas las pruebas deben realizarse en entornos controlados o con permiso explícito.
