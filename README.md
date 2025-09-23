@@ -1,4 +1,7 @@
-# Hola, soy Zero 👋
+<p align="center">
+  <img src="https://github.com/ZeroX-Root/ZeroX-Root/blob/main/bannerGit.png" alt="banner" />
+</p>
+
 
 🎓 Ingeniero Informático  
 
