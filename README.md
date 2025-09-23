@@ -1,7 +1,5 @@
 # Hola, soy Zero 👋
 
-## Sobre mí
-
 🎓 Ingeniero Informático  
 
 🔐 Apasionado por la ciberseguridad ofensiva y el hacking ético. Me concentro en **phishing**, pruebas de penetración, exploits y técnicas ofensivas controladas para identificar vulnerabilidades y mejorar la seguridad.
