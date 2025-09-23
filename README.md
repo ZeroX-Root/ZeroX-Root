@@ -18,7 +18,7 @@
 
 ## Herramientas y Tecnologías 🛠️
 
-[![Skills](https://skillicons.dev/icons?i=python,bash,git,github,kali,cpp&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,bash,go,git,github,kali,cpp&theme=dark)](https://skillicons.dev)
 
 ---
 
