@@ -1,7 +1,8 @@
+<h1 align="center">Alejandro Guarin Melo - ZeroX-Root</h1>
+
 <p align="center">
   <img src="https://github.com/ZeroX-Root/ZeroX-Root/blob/main/bannerGit.png" alt="banner" />
 </p>
-
 
 🎓 Ingeniero Informático  
 
