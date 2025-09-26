@@ -26,7 +26,7 @@ Este repositorio reúne proyectos personales y utilidades diseñadas para fines 
 ## Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,bash,go,git,github,linux,cpp,sqlite,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,bash,go,git,github,linux,cpp,mysql,vscode&theme=dark" />
 </p>
 
 **Principales:** Python, Flask, Go, Bash, SQL  
