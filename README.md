@@ -4,7 +4,7 @@
   <img src="https://github.com/ZeroX-Root/ZeroX-Root/blob/main/bannerGit.png" alt="banner" />
 </p>
 
-<h3 align="center">💻 Backend Developer | Python | Flask | Go | Bash | SQL</h3>
+<h3 align="center">Backend Developer | Python | Flask | Go | Bash | SQL</h3>
 
 <p align="center">
   <a href="mailto:zero-root.sec@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
@@ -14,14 +14,16 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-Tecnólogo en Desarrollo de Software con enfoque en **desarrollo backend** y automatización. Manejo de **Python, Flask, Go y Bash**, aplicando buenas prácticas de programación, control de versiones con Git/GitHub y entornos Linux.  
+Tecnólogo en Desarrollo de Software con enfoque en **desarrollo backend** y automatización.  
+Experiencia con **Python, Flask, Go y Bash**, aplicando buenas prácticas de programación, control de versiones con Git/GitHub y entornos Linux.  
+
 Este repositorio reúne proyectos personales y utilidades diseñadas para fines educativos y de aprendizaje continuo.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,bash,go,git,github,linux,cpp,sqlite,vscode&theme=dark" />
@@ -32,7 +34,7 @@ Este repositorio reúne proyectos personales y utilidades diseñadas para fines 
 
 ---
 
-## 🎯 Áreas de enfoque
+## Áreas de enfoque
 
 - Desarrollo backend con **Python y Flask**  
 - Gestión y consultas en **bases de datos SQL**  
@@ -42,19 +44,17 @@ Este repositorio reúne proyectos personales y utilidades diseñadas para fines 
 
 ---
 
-## 📬 Contacto
+## Contacto
 
-- 📧 Correo: **zero-root.sec@proton.me**  
-- 🌐 GitHub: [ZeroX-Root](https://github.com/ZeroX-Root)  
-- 🔗 LinkedIn: [Alejandro Guarín](https://www.linkedin.com/in/alejandroguarin)  
+- Correo: **alejandro.guarin.dev@gmail.com**  
+- GitHub: [ZeroX-Root](https://github.com/ZeroX-Root)  
+- LinkedIn: [Alejandro Guarín](https://www.linkedin.com/in/alejandroguarin)  
 
 ---
 
-## 🔒 Buenas prácticas
+## Buenas prácticas
 
 Este repositorio y las herramientas aquí publicadas son de **uso educativo y de investigación personal**.  
 Están orientadas al aprendizaje y a la práctica de programación.  
 
 ---
-
-*Última actualización: 2025*
