@@ -56,5 +56,3 @@ Este repositorio reúne proyectos personales y utilidades diseñadas para fines 
 
 Este repositorio y las herramientas aquí publicadas son de **uso educativo y de investigación personal**.  
 Están orientadas al aprendizaje y a la práctica de programación.  
-
----
