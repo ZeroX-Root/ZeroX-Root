@@ -44,10 +44,16 @@ Este repositorio reúne proyectos personales y utilidades diseñadas para fines 
 
 ## 📊 Estadísticas de GitHub
 
+## ⚡ Stack principal
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroX-Root&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroX-Root&layout=compact&theme=radical" alt="langs" height="165"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
 
 ---
 
