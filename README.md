@@ -1,37 +1,69 @@
-<h1 align="center">Alejandro Guarin Melo - ZeroX-Root</h1>
+# Alejandro Guarín Melo - ZeroX-Root
 
 <p align="center">
   <img src="https://github.com/ZeroX-Root/ZeroX-Root/blob/main/bannerGit.png" alt="banner" />
 </p>
 
-🎓 Ingeniero Informático  
+<h3 align="center">💻 Backend Developer | Python | Flask | Go | Bash | SQL</h3>
 
-🔐 Apasionado por la ciberseguridad ofensiva y el hacking ético. Me concentro en **phishing**, pruebas de penetración, exploits y técnicas ofensivas controladas para identificar vulnerabilidades y mejorar la seguridad.
-
-💻 Roles: Pentester, investigador de seguridad y desarrollador de herramientas de auditoría.
-
-🚀 Siempre aprendiendo nuevas técnicas y aplicando buenas prácticas para mantener un enfoque profesional y responsable.
-
-📫 Contacto: [zero-root.sec@proton.me](mailto:zero-root.sec@proton.me)
+<p align="center">
+  <a href="mailto:zero-root.sec@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://github.com/ZeroX-Root"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://www.linkedin.com/in/alejandroguarin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+</p>
 
 ---
 
-## Herramientas y Tecnologías 🛠️
+## 🚀 Sobre mí
 
-[![Skills](https://skillicons.dev/icons?i=python,bash,go,git,github,kali,cpp&theme=dark)](https://skillicons.dev)
-
----
-
-## Áreas de Especialización 🎯
-
-- **Phishing & Ingeniería Social:** Creación de campañas educativas y simulaciones para concienciación sobre ataques.
-- **Pentesting Web:** Auditoría de sitios web, identificación de vulnerabilidades (SQLi, XSS, CSRF) y uso de herramientas como Burp Suite y OWASP ZAP.
-- **Exploits & Payloads:** Creación y pruebas en laboratorios controlados con Metasploit y msfvenom.
-- **Redes & Seguridad de Sistemas:** Escaneo de redes, análisis de tráfico y pruebas de seguridad en servicios y protocolos.
-- **Automatización & Scripting:** Scripts en Python y Bash para auditorías y análisis de seguridad.
+Tecnólogo en Desarrollo de Software con enfoque en **desarrollo backend** y automatización. Manejo de **Python, Flask, Go y Bash**, aplicando buenas prácticas de programación, control de versiones con Git/GitHub y entornos Linux.  
+Este repositorio reúne proyectos personales y utilidades diseñadas para fines educativos y de aprendizaje continuo.
 
 ---
 
-## ⚠️ Disclaimer
+## 🛠️ Tecnologías y herramientas
 
-Este contenido es únicamente con fines educativos y éticos. No usar en sistemas ajenos sin autorización. Todas las pruebas deben realizarse en entornos controlados o con permiso explícito.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,bash,go,git,github,linux,cpp,sqlite,vscode&theme=dark" />
+</p>
+
+**Principales:** Python, Flask, Go, Bash, SQL  
+**Entornos y herramientas:** Linux, Git, GitHub, Neovim, VS Code  
+
+---
+
+## 🎯 Áreas de enfoque
+
+- Desarrollo backend con **Python y Flask**  
+- Gestión y consultas en **bases de datos SQL**  
+- Automatización de tareas con **Bash y Python**  
+- Scripting y desarrollo de **utilidades educativas**  
+- Uso de **Git/GitHub** y metodologías de trabajo colaborativo  
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroX-Root&show_icons=true&theme=radical" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroX-Root&layout=compact&theme=radical" alt="langs" height="165"/>
+</p>
+
+---
+
+## 📬 Contacto
+
+- 📧 Correo: **zero-root.sec@proton.me**  
+- 🌐 GitHub: [ZeroX-Root](https://github.com/ZeroX-Root)  
+- 🔗 LinkedIn: [Alejandro Guarín](https://www.linkedin.com/in/alejandroguarin)  
+
+---
+
+## 🔒 Buenas prácticas
+
+Este repositorio y las herramientas aquí publicadas son de **uso educativo y de investigación personal**.  
+Están orientadas al aprendizaje y a la práctica de programación.  
+
+---
+
+*Última actualización: 2025*
