@@ -42,8 +42,6 @@ Este repositorio reúne proyectos personales y utilidades diseñadas para fines 
 
 ---
 
-## 🐍 Actividad de GitHub
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ZeroX-Root/ZeroX-Root/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
