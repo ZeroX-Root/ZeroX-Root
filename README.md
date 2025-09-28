@@ -23,6 +23,12 @@ Este repositorio reúne proyectos personales y utilidades diseñadas para fines 
 
 ---
 
+[![Dev Logic](https://img.shields.io/badge/Dev%20Logic-Desarrollo%20de%20Software-blue?style=for-the-badge)](https://github.com/Dev-Logic-Desarrollo-de-software/Dev-Logic-Desarrollo-de-software)
+
+Soy el fundador de **Dev Logic** y me encargo del desarrollo backend de nuestros proyectos.  
+En la organización creamos soluciones de software modernas y eficientes para aplicaciones web y backend utilizando tecnologías de última generación.
+
+---
 ## Tecnologías y herramientas
 
 <p align="center">
@@ -56,10 +62,4 @@ Este repositorio reúne proyectos personales y utilidades diseñadas para fines 
 
 Este repositorio y las herramientas aquí publicadas son de **uso educativo y de investigación personal**.  
 Están orientadas al aprendizaje y a la práctica de programación.  
-
----
-
-## Mis proyectos y empresa
-
-[![Dev Logic](https://img.shields.io/badge/Dev%20Logic-Desarrollo%20de%20Software-blue?style=for-the-badge)](https://github.com/Dev-Logic-Desarrollo-de-software/Dev-Logic-Desarrollo-de-software)
 
