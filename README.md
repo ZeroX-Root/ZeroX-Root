@@ -54,7 +54,7 @@ En la organización creamos soluciones de software modernas y eficientes para ap
 
 - Correo: **alejandro.guarin.dev@gmail.com**  
 - GitHub: [ZeroX-Root](https://github.com/ZeroX-Root)  
-- LinkedIn: [Alejandro Guarín](https://www.linkedin.com/in/alejandroguarin)  
+- LinkedIn: [Alejandro Guarín](www.linkedin.com/in/alejandro-guarin-melo)  
 
 ---
 
