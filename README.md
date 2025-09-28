@@ -56,3 +56,10 @@ Este repositorio reúne proyectos personales y utilidades diseñadas para fines 
 
 Este repositorio y las herramientas aquí publicadas son de **uso educativo y de investigación personal**.  
 Están orientadas al aprendizaje y a la práctica de programación.  
+
+---
+
+## Mis proyectos y empresa
+
+[![Dev Logic](https://img.shields.io/badge/Dev%20Logic-Desarrollo%20de%20Software-blue?style=for-the-badge)](https://github.com/Dev-Logic-Desarrollo-de-software/Dev-Logic-Desarrollo-de-software)
+
