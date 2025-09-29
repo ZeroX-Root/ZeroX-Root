@@ -14,6 +14,16 @@
 
 ---
 
+<h3 align="center">Backend Developer | Python | Flask | Go | Bash | SQL</h3>
+
+<p align="center">
+  <a href="mailto:alejandro.guarin.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://github.com/ZeroX-Root"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://www.linkedin.com/in/alejandro-guarin-melo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+</p>
+
+---
+
 ## Sobre mí
 
 Tecnólogo en Desarrollo de Software con enfoque en **desarrollo backend** y automatización.  
