@@ -4,17 +4,7 @@
   <img src="https://github.com/ZeroX-Root/ZeroX-Root/blob/main/bannerGit.png" alt="banner" />
 </p>
 
-<h3 align="center">Backend Developer | Python | Flask | Go | Bash | SQL</h3>
-
-<p align="center">
-  <a href="mailto:alejandro.guarin.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://github.com/ZeroX-Root"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-  <a href="https://www.linkedin.com/in/alejandro-guarin-melo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-</p>
-
----
-
-<h3 align="center">Backend Developer | Python | Flask | Go | Bash | SQL</h3>
+<h3 align="center">Backend Developer | Python | FastAPI | Flask | Go | Bash | SQL</h3>
 
 <p align="center">
   <a href="mailto:alejandro.guarin.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
@@ -27,7 +17,7 @@
 ## Sobre mí
 
 Tecnólogo en Desarrollo de Software con enfoque en **desarrollo backend** y automatización.  
-Experiencia con **Python, Flask, Go y Bash**, aplicando buenas prácticas de programación, control de versiones con Git/GitHub y entornos Linux.  
+Experiencia con **Python, FastAPI, Flask, Go y Bash**, aplicando buenas prácticas de programación, control de versiones con Git/GitHub y entornos Linux.  
 
 Este repositorio reúne proyectos personales y utilidades diseñadas para fines educativos y de aprendizaje continuo.
 
@@ -42,17 +32,17 @@ En la organización creamos soluciones de software modernas y eficientes para ap
 ## Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,bash,go,git,github,linux,cpp,mysql,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,bash,go,git,github,linux,cpp,mysql,vscode&theme=dark" />
 </p>
 
-**Principales:** Python, Flask, Go, Bash, SQL  
+**Principales:** Python, FastAPI, Flask, Go, Bash, SQL  
 **Entornos y herramientas:** Linux, Git, GitHub, Neovim, VS Code  
 
 ---
 
 ## Áreas de enfoque
 
-- Desarrollo backend con **Python y Flask**  
+- Desarrollo backend con **Python y FastAPI**  
 - Gestión y consultas en **bases de datos SQL**  
 - Automatización de tareas con **Bash y Python**  
 - Scripting y desarrollo de **utilidades educativas**  
@@ -72,4 +62,3 @@ En la organización creamos soluciones de software modernas y eficientes para ap
 
 Este repositorio y las herramientas aquí publicadas son de **uso educativo y de investigación personal**.  
 Están orientadas al aprendizaje y a la práctica de programación.  
-
