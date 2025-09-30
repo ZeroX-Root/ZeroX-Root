@@ -32,7 +32,7 @@ En la organización creamos soluciones de software modernas y eficientes para ap
 ## Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,bash,go,git,github,linux,cpp,mysql,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,bash,go,git,github,linux,postgres,vscode&theme=dark" />
 </p>
 
 **Principales:** Python, FastAPI, Flask, Go, Bash, SQL  
