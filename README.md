@@ -4,7 +4,7 @@
   <img src="https://github.com/ZeroX-Root/ZeroX-Root/blob/main/bannerGit.png" alt="banner" />
 </p>
 
-<h3 align="center">Backend Developer | Python | FastAPI | Flask | Go | Bash | SQL</h3>
+<h3 align="center">Backend Developer | Python | Django REST Framework | FastAPI | Flask | SQL</h3>
 
 <p align="center">
   <a href="mailto:alejandro.guarin.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
@@ -16,37 +16,40 @@
 
 ## Sobre mí
 
-Tecnólogo en Desarrollo de Software con enfoque en **desarrollo backend** y automatización.  
-Experiencia con **Python, FastAPI, Flask, Go y Bash**, aplicando buenas prácticas de programación, control de versiones con Git/GitHub y entornos Linux.  
+Tecnólogo en Desarrollo de Software con especialización en **backend con Django REST Framework**.  
+Experiencia aplicando **Python** y su ecosistema de frameworks para el desarrollo de APIs robustas, seguras y escalables.  
+Conocimientos complementarios en **FastAPI, Flask y SQL**, además de automatización con Bash en entornos Linux.  
 
-Este repositorio reúne proyectos personales y utilidades diseñadas para fines educativos y de aprendizaje continuo.
+Este repositorio reúne proyectos personales y colaborativos enfocados en **REST APIs y servicios backend** para fines educativos y de investigación práctica.
 
 ---
 
 [![Dev Logic](https://img.shields.io/badge/Dev%20Logic-Desarrollo%20de%20Software-blue?style=for-the-badge)](https://github.com/Dev-Logic-Desarrollo-de-software/Dev-Logic-Desarrollo-de-software)
 
-Soy el fundador de **Dev Logic** y me encargo del desarrollo backend de nuestros proyectos.  
-En la organización creamos soluciones de software modernas y eficientes para aplicaciones web y backend utilizando tecnologías de última generación.
+Soy fundador de **Dev Logic** y me encargo del backend de nuestros proyectos.  
+Creamos soluciones modernas y eficientes basadas en **Django REST Framework** y otras herramientas Python para aplicaciones web.
 
 ---
+
 ## Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,bash,go,git,github,linux,postgres,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,bash,git,github,linux,vscode&theme=dark" />
 </p>
 
-**Principales:** Python, FastAPI, Flask, Go, Bash, SQL  
+**Principal:** Django REST Framework (Python)  
+**Secundarias:** FastAPI, Flask, SQL, Bash  
 **Entornos y herramientas:** Linux, Git, GitHub, Neovim, VS Code  
 
 ---
 
 ## Áreas de enfoque
 
-- Desarrollo backend con **Python y FastAPI**  
-- Gestión y consultas en **bases de datos SQL**  
-- Automatización de tareas con **Bash y Python**  
-- Scripting y desarrollo de **utilidades educativas**  
-- Uso de **Git/GitHub** y metodologías de trabajo colaborativo  
+- Desarrollo backend con **Django REST Framework**  
+- Creación y documentación de **APIs RESTful**  
+- Gestión y consultas con **bases de datos SQL (PostgreSQL, SQLite)**  
+- Automatización de tareas con **Python y Bash**  
+- Colaboración en proyectos con **Git y GitHub**  
 
 ---
 
@@ -54,11 +57,11 @@ En la organización creamos soluciones de software modernas y eficientes para ap
 
 - Correo: **alejandro.guarin.dev@gmail.com**  
 - GitHub: [ZeroX-Root](https://github.com/ZeroX-Root)  
-- LinkedIn: [Alejandro Guarín](www.linkedin.com/in/alejandro-guarin-melo)  
+- LinkedIn: [Alejandro Guarín](https://www.linkedin.com/in/alejandro-guarin-melo/)  
 
 ---
 
 ## Buenas prácticas
 
-Este repositorio y las herramientas aquí publicadas son de **uso educativo y de investigación personal**.  
-Están orientadas al aprendizaje y a la práctica de programación.  
+Este repositorio y las herramientas aquí publicadas tienen un propósito **educativo y de aprendizaje continuo**.  
+Todo el contenido está orientado al estudio de **Django REST Framework y desarrollo backend en Python**.
