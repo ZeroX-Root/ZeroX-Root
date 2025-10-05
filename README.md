@@ -4,8 +4,6 @@
   <img src="https://github.com/ZeroX-Root/ZeroX-Root/blob/main/bannerGit.png" alt="banner" />
 </p>
 
-<h3 align="center">Backend Developer | Python | Django REST Framework | FastAPI | Flask | SQL</h3>
-
 <h3 align="center">Software Contractor | Technical Lead | Founder @ Dev Logic</h3>
 
 <p align="center">
