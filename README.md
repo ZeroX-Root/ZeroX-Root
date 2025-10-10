@@ -1,4 +1,11 @@
-<h3 align="center">Backend Developer | Technical Lead | Founder @ Dev Logic</h3>
+# Alejandro Guarín Melo
+<p align="center">
+
+  <img src="https://github.com/ZeroX-Root/ZeroX-Root/blob/main/bannerGit.png" alt="banner" />
+
+</p>
+
+<h3 align="center">Software Contractor | Technical Lead | Founder @ Dev Logic</h3>
 
 <p align="center">
   <a href="mailto:alejandro.guarin.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
@@ -11,20 +18,20 @@
 ## Sobre mí
 
 Soy **Alejandro Guarín**, ingeniero en formación con un **Tecnólogo en Desarrollo de Software**.  
-Actualmente me desempeño como **Software Contractor** y **Technical Lead**, liderando el desarrollo de soluciones personalizadas bajo la marca **Dev Logic**.
+Actualmente me desempeño como **Software Contractor** y **Technical Lead**, liderando proyectos personalizados bajo la marca **Dev Logic**.
 
-Me especializo en la construcción de **backends robustos y eficientes con Django y Python**, integrados con **PostgreSQL** y desplegados en entornos **Linux**.  
-También domino el uso de **Bash** para la automatización de tareas y la gestión de servidores.
+Me especializo en el desarrollo de **aplicaciones web completas con Django**, utilizando su sistema de plantillas para construir interfaces dinámicas y su potente ORM para la gestión de datos con **PostgreSQL**.  
+Trabajo principalmente en **entornos Linux**, utilizando **Bash** para automatización y tareas de administración del sistema.
 
-Mi objetivo profesional es diseñar **arquitecturas limpias, escalables y mantenibles** que impulsen el crecimiento tecnológico de las empresas.
+Mi enfoque está en crear soluciones **robustas, escalables y mantenibles**, integrando tanto el backend como el frontend desde Django.
 
 ---
 
 [![Dev Logic](https://img.shields.io/badge/Dev%20Logic-Desarrollo%20de%20Software-blue?style=for-the-badge)](https://github.com/Dev-Logic-Desarrollo-de-software/Dev-Logic-Desarrollo-de-software)
 
 **Dev Logic** es una empresa dedicada al **desarrollo de software a la medida**.  
-Creamos sistemas de gestión, aplicaciones web y soluciones integradas, enfocadas en la eficiencia y escalabilidad.  
-Utilizamos tecnologías modernas que garantizan **rendimiento, seguridad y mantenimiento a largo plazo**.
+Diseñamos y desarrollamos aplicaciones web, sistemas de gestión y soluciones personalizadas para empresas y emprendedores.  
+Trabajamos con tecnologías modernas que garantizan **rendimiento, seguridad y mantenimiento a largo plazo**.
 
 ---
 
@@ -34,8 +41,8 @@ Utilizamos tecnologías modernas que garantizan **rendimiento, seguridad y mante
   <img src="https://skillicons.dev/icons?i=python,django,postgres,linux,bash,git,github,vscode&theme=dark" />
 </p>
 
-- **Lenguaje principal:** Python  
-- **Framework backend:** Django REST Framework  
+- **Framework principal:** Django (fullstack del lado del servidor)  
+- **Lenguaje:** Python  
 - **Base de datos:** PostgreSQL  
 - **Sistema operativo:** Linux  
 - **Automatización:** Bash  
@@ -46,12 +53,12 @@ Utilizamos tecnologías modernas que garantizan **rendimiento, seguridad y mante
 
 ## Enfoque profesional
 
-- Desarrollo backend con Django y PostgreSQL  
-- Diseño y optimización de APIs RESTful  
-- Administración y despliegue en entornos Linux  
-- Automatización de procesos mediante Bash  
+- Desarrollo de aplicaciones web completas con Django  
+- Diseño de interfaces dinámicas usando el sistema de plantillas de Django  
+- Modelado y gestión de datos con PostgreSQL  
+- Despliegue y mantenimiento en entornos Linux  
+- Automatización de tareas y scripts en Bash  
 - Gestión técnica y liderazgo de equipos de desarrollo  
-- Integración y mantenimiento de proyectos en producción  
 
 ---
 
@@ -65,5 +72,5 @@ Utilizamos tecnologías modernas que garantizan **rendimiento, seguridad y mante
 
 ## Nota
 
-Este perfil está enfocado en mi desarrollo profesional como **Backend Developer especializado en Django, Python, Linux y PostgreSQL**.  
-Los proyectos aquí presentados reflejan mi trabajo técnico y mi liderazgo en el desarrollo de soluciones reales dentro de **Dev Logic**.
+Este perfil está enfocado en mi desarrollo profesional como **desarrollador especializado en Django clásico**, junto con **Python, Linux, PostgreSQL y Bash**.  
+Los proyectos aquí presentados reflejan mi trabajo técnico y de liderazgo dentro de **Dev Logic**.
