@@ -5,7 +5,7 @@
 
 </p>
 
-<h3 align="center">Software Contractor | Technical Lead | Founder @ Dev Logic</h3>
+<h3 align="center">Software Developer | Technical Lead | Founder @ Dev Logic</h3>
 
 <p align="center">
   <a href="mailto:alejandro.guarin.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
