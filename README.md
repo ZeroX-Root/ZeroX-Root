@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
 Soy **Alejandro Guarín**, desarrollador de software especializado en el **desarrollo de paneles administrativos y sistemas de gestión**.  
 Actualmente me enfoco en crear soluciones web escalables utilizando un stack moderno compuesto por **React, Django REST Framework y PostgreSQL**.
@@ -25,7 +25,7 @@ Mi objetivo es construir plataformas seguras, rápidas y bien estructuradas que 
 
 ---
 
-## 🚀 Dev Logic
+## Dev Logic
 
 [![Dev Logic](https://img.shields.io/badge/Dev%20Logic-Desarrollo%20de%20Software-blue?style=for-the-badge)](https://github.com/Dev-Logic-Desarrollo-de-software/Dev-Logic-Desarrollo-de-software)
 
@@ -35,7 +35,7 @@ Priorizamos el **rendimiento, la seguridad y la escalabilidad** de cada solució
 
 ---
 
-## 🧰 Stack principal
+## Stack principal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,python,django,postgres,linux,git,github,vscode&theme=dark" />
@@ -50,9 +50,9 @@ Priorizamos el **rendimiento, la seguridad y la escalabilidad** de cada solució
 
 ---
 
-## 🎯 Enfoque profesional
+## Enfoque profesional
 
-- Desarrollo de **paneles administrativos** y **dashboards de gestión**
+- Desarrollo de **paneles administrativos** y **dashboards de gestión**  
 - Implementación de **API RESTful** con Django REST Framework  
 - Integración entre **React + DRF** para aplicaciones modernas y modulares  
 - Diseño de sistemas con **roles, permisos y autenticación**  
@@ -62,7 +62,7 @@ Priorizamos el **rendimiento, la seguridad y la escalabilidad** de cada solució
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 - **Correo:** [alejandro.guarin.dev@gmail.com](mailto:alejandro.guarin.dev@gmail.com)  
 - **GitHub:** [ZeroX-Root](https://github.com/ZeroX-Root)  
