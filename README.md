@@ -15,62 +15,57 @@
 
 ---
 
-## Sobre mí
+## 👋 Sobre mí
 
-Soy **Alejandro Guarín**, ingeniero en formación con un **Tecnólogo en Desarrollo de Software**.  
-Actualmente me desempeño como **Software Contractor** y **Technical Lead**, liderando proyectos personalizados bajo la marca **Dev Logic**.
+Soy **Alejandro Guarín**, desarrollador de software especializado en el **desarrollo de paneles administrativos y sistemas de gestión**.  
+Actualmente me enfoco en crear soluciones web escalables utilizando un stack moderno compuesto por **React, Django REST Framework y PostgreSQL**.
 
-Me especializo en el desarrollo de **aplicaciones web completas con Django**, utilizando su sistema de plantillas para construir interfaces dinámicas y su potente ORM para la gestión de datos con **PostgreSQL**.  
-Trabajo principalmente en **entornos Linux**, utilizando **Bash** para automatización y tareas de administración del sistema.
-
-Mi enfoque está en crear soluciones **robustas, escalables y mantenibles**, integrando tanto el backend como el frontend desde Django.
+Trabajo bajo la marca **Dev Logic**, donde desarrollo herramientas internas, dashboards y sistemas empresariales que facilitan la gestión de datos, usuarios y procesos.  
+Mi objetivo es construir plataformas seguras, rápidas y bien estructuradas que optimicen la administración en empresas y proyectos digitales.
 
 ---
+
+## 🚀 Dev Logic
 
 [![Dev Logic](https://img.shields.io/badge/Dev%20Logic-Desarrollo%20de%20Software-blue?style=for-the-badge)](https://github.com/Dev-Logic-Desarrollo-de-software/Dev-Logic-Desarrollo-de-software)
 
-**Dev Logic** es una empresa dedicada al **desarrollo de software a la medida**.  
-Diseñamos y desarrollamos aplicaciones web, sistemas de gestión y soluciones personalizadas para empresas y emprendedores.  
-Trabajamos con tecnologías modernas que garantizan **rendimiento, seguridad y mantenimiento a largo plazo**.
+**Dev Logic** es una marca enfocada en el **desarrollo de software a la medida**.  
+Creamos **paneles administrativos**, **dashboards empresariales** y **sistemas de gestión** para startups, negocios y proyectos internos.  
+Priorizamos el **rendimiento, la seguridad y la escalabilidad** de cada solución.
 
 ---
 
-## Stack principal
+## 🧰 Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,linux,bash,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,python,django,postgres,linux,git,github,vscode&theme=dark" />
 </p>
 
-- **Framework principal:** Django (fullstack del lado del servidor)  
-- **Lenguaje:** Python  
+- **Frontend:** React  
+- **Backend:** Django REST Framework (DRF)  
 - **Base de datos:** PostgreSQL  
-- **Sistema operativo:** Linux  
-- **Automatización:** Bash  
+- **Despliegue:** Linux (Ubuntu Server)  
 - **Control de versiones:** Git y GitHub  
 - **Entorno de trabajo:** VS Code  
 
 ---
 
-## Enfoque profesional
+## 🎯 Enfoque profesional
 
-- Desarrollo de aplicaciones web completas con Django  
-- Diseño de interfaces dinámicas usando el sistema de plantillas de Django  
-- Modelado y gestión de datos con PostgreSQL  
-- Despliegue y mantenimiento en entornos Linux  
-- Automatización de tareas y scripts en Bash  
-- Gestión técnica y liderazgo de equipos de desarrollo  
+- Desarrollo de **paneles administrativos** y **dashboards de gestión**
+- Implementación de **API RESTful** con Django REST Framework  
+- Integración entre **React + DRF** para aplicaciones modernas y modulares  
+- Diseño de sistemas con **roles, permisos y autenticación**  
+- **Modelado y gestión de datos** con PostgreSQL  
+- Optimización de procesos de administración (filtros, reportes, exportación de datos, etc.)  
+- Despliegue y mantenimiento en **entornos Linux**
 
 ---
 
-## Contacto
+## 📬 Contacto
 
 - **Correo:** [alejandro.guarin.dev@gmail.com](mailto:alejandro.guarin.dev@gmail.com)  
 - **GitHub:** [ZeroX-Root](https://github.com/ZeroX-Root)  
 - **LinkedIn:** [Alejandro Guarín](https://www.linkedin.com/in/alejandro-guarin-melo/)  
 
 ---
-
-## Nota
-
-Este perfil está enfocado en mi desarrollo profesional como **desarrollador especializado en Django clásico**, junto con **Python, Linux, PostgreSQL y Bash**.  
-Los proyectos aquí presentados reflejan mi trabajo técnico y de liderazgo dentro de **Dev Logic**.
