@@ -1,7 +1,7 @@
 # Alejandro Guarín Melo
 <p align="center">
 
-  <img src="https://github.com/ZeroX-Root/ZeroX-Root/blob/main/bannerGit.png" alt="banner" />
+  <img src="https://github.com/ZeroX-Root/ZeroX-Root/blob/main/github.png" alt="banner" />
 
 </p>
 
