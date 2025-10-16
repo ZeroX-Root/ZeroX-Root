@@ -17,11 +17,11 @@
 
 ## Sobre mí
 
-Soy **Alejandro Guarín**, desarrollador de software especializado en el **desarrollo de paneles administrativos y sistemas de gestión**.  
-Actualmente me enfoco en crear soluciones web escalables utilizando un stack moderno compuesto por **React, Django REST Framework y PostgreSQL**.
+Soy **Alejandro Guarín**, desarrollador de software especializado en **backend y sistemas de gestión**.  
+Actualmente me enfoco en **Java + Spring Boot** como mi stack principal, y **Django** como stack secundario para proyectos específicos.  
 
-Trabajo bajo la marca **Dev Logic**, donde desarrollo herramientas internas, dashboards y sistemas empresariales que facilitan la gestión de datos, usuarios y procesos.  
-Mi objetivo es construir plataformas seguras, rápidas y bien estructuradas que optimicen la administración en empresas y proyectos digitales.
+Bajo la marca **Dev Logic**, desarrollo herramientas internas, dashboards y sistemas empresariales que optimizan la gestión de datos, usuarios y procesos.  
+Mi objetivo es construir plataformas **seguras, rápidas y bien estructuradas** para empresas y proyectos digitales.
 
 ---
 
@@ -29,35 +29,46 @@ Mi objetivo es construir plataformas seguras, rápidas y bien estructuradas que 
 
 [![Dev Logic](https://img.shields.io/badge/Dev%20Logic-Desarrollo%20de%20Software-blue?style=for-the-badge)](https://github.com/Dev-Logic-Desarrollo-de-software/Dev-Logic-Desarrollo-de-software)
 
-**Dev Logic** es una marca enfocada en el **desarrollo de software a la medida**.  
-Creamos **paneles administrativos**, **dashboards empresariales** y **sistemas de gestión** para startups, negocios y proyectos internos.  
-Priorizamos el **rendimiento, la seguridad y la escalabilidad** de cada solución.
+**Dev Logic** es una marca enfocada en el **desarrollo de software a medida**.  
+Creamos **sistemas de backend**, **paneles administrativos** y **dashboards empresariales** para startups, negocios y proyectos internos.  
+Priorizamos el **rendimiento, la seguridad y la escalabilidad** en cada solución.
 
 ---
 
 ## Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,python,django,postgres,linux,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,linux,git,github,vscode&theme=dark" />
 </p>
 
-- **Frontend:** React  
-- **Backend:** Django REST Framework (DRF)  
+- **Backend:** Java + Spring Boot  
 - **Base de datos:** PostgreSQL  
 - **Despliegue:** Linux (Ubuntu Server)  
 - **Control de versiones:** Git y GitHub  
-- **Entorno de trabajo:** VS Code  
+- **Entorno de trabajo:** VS Code / IntelliJ IDEA  
+
+---
+
+## Stack secundario
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django&theme=dark" />
+</p>
+
+- **Backend:** Django REST Framework  
+- **Base de datos:** PostgreSQL  
+- **Despliegue:** Linux  
 
 ---
 
 ## Enfoque profesional
 
-- Desarrollo de **paneles administrativos** y **dashboards de gestión**  
-- Implementación de **API RESTful** con Django REST Framework  
-- Integración entre **React + DRF** para aplicaciones modernas y modulares  
+- Desarrollo de **aplicaciones backend escalables**  
+- Implementación de **API RESTful** y servicios web  
+- Creación de **paneles administrativos y dashboards**  
 - Diseño de sistemas con **roles, permisos y autenticación**  
 - **Modelado y gestión de datos** con PostgreSQL  
-- Optimización de procesos de administración (filtros, reportes, exportación de datos, etc.)  
+- Optimización de procesos y reportes en aplicaciones empresariales  
 - Despliegue y mantenimiento en **entornos Linux**
 
 ---
@@ -67,5 +78,3 @@ Priorizamos el **rendimiento, la seguridad y la escalabilidad** de cada solució
 - **Correo:** [alejandro.guarin.dev@gmail.com](mailto:alejandro.guarin.dev@gmail.com)  
 - **GitHub:** [ZeroX-Root](https://github.com/ZeroX-Root)  
 - **LinkedIn:** [Alejandro Guarín](https://www.linkedin.com/in/alejandro-guarin-melo/)  
-
-
