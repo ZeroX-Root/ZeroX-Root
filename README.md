@@ -17,10 +17,10 @@
 
 ## Sobre mí
 
-Soy **Alejandro Guarín**, desarrollador de software especializado en **desarrollo móvil con Kotlin**.  
-Actualmente me enfoco en crear **aplicaciones Android modernas, seguras y eficientes**, aplicando buenas prácticas de arquitectura y patrones de diseño.  
+Soy **Alejandro Guarín**, desarrollador especializado en **aplicaciones móviles Android con Kotlin**.  
+Me enfoco en crear **apps nativas modernas, seguras y eficientes**, aplicando buenas prácticas de arquitectura y patrones de diseño.  
 
-Bajo la marca **Dev Logic**, desarrollo **aplicaciones móviles, herramientas internas y dashboards empresariales**, buscando optimizar procesos y ofrecer experiencias de usuario fluidas.  
+Bajo la marca **Dev Logic**, desarrollo **aplicaciones móviles y dashboards internos**, buscando optimizar procesos y ofrecer experiencias de usuario fluidas.  
 Mi objetivo es construir **apps escalables, robustas y mantenibles**, listas para el mercado y adaptadas a las necesidades de cada proyecto.
 
 ---
@@ -29,22 +29,21 @@ Mi objetivo es construir **apps escalables, robustas y mantenibles**, listas par
 
 [![Dev Logic](https://img.shields.io/badge/Dev%20Logic-Desarrollo%20de%20Software-blue?style=for-the-badge)](https://github.com/Dev-Logic-Desarrollo-de-software/Dev-Logic-Desarrollo-de-software)
 
-**Dev Logic** es una marca enfocada en el **desarrollo de software a medida**, ahora con un fuerte enfoque en **aplicaciones móviles Android**.  
-Creamos **apps nativas, paneles administrativos y dashboards empresariales**, priorizando **rendimiento, seguridad y escalabilidad**.
+**Dev Logic** es una marca enfocada en el **desarrollo de software a medida**, con un fuerte enfoque en **aplicaciones móviles Android**.  
+Creamos **apps nativas, paneles administrativos y dashboards**, priorizando **rendimiento, seguridad y escalabilidad**.
 
 ---
 
 ## Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,postgres,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,sqlite,firebase&theme=dark" />
 </p>
 
 - **Mobile:** Kotlin + Android Studio  
-- **Backend:** Java + Spring Boot (APIs)  
-- **Base de datos:** PostgreSQL / SQLite  
+- **Almacenamiento:** SQLite, Room, Firebase  
 - **Control de versiones:** Git y GitHub  
-- **Despliegue:** Linux / Android Play Store  
+- **Despliegue:** Google Play Store  
 - **Entorno de trabajo:** Android Studio / VS Code  
 
 ---
@@ -53,11 +52,11 @@ Creamos **apps nativas, paneles administrativos y dashboards empresariales**, pr
 
 - Desarrollo de **aplicaciones Android nativas**  
 - Implementación de **API RESTful y servicios móviles**  
-- Integración con **bases de datos locales y remotas**  
+- Integración con **bases de datos locales y en la nube**  
 - Creación de **interfaces modernas y responsivas**  
-- Diseño de sistemas con **roles, permisos y autenticación**  
-- Optimización de procesos y rendimiento en apps móviles  
-- Despliegue y mantenimiento de aplicaciones en **Play Store y servidores Linux**
+- Manejo de **estado, navegación y patrones de arquitectura** (MVVM, MVI)  
+- Optimización de **rendimiento y experiencia de usuario**  
+- Despliegue y mantenimiento de apps en **Play Store**
 
 ---
 
