@@ -5,7 +5,7 @@
 
 </p>
 
-<h3 align="center">Software Developer | Technical Lead | Founder @ Dev Logic</h3>
+<h3 align="center">Mobile Developer | Kotlin Enthusiast | Founder @ Dev Logic</h3>
 
 <p align="center">
   <a href="mailto:alejandro.guarin.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
@@ -17,11 +17,11 @@
 
 ## Sobre mí
 
-Soy **Alejandro Guarín**, desarrollador de software especializado en **backend y sistemas de gestión**.  
-Actualmente me enfoco en **Java + Spring Boot** como mi stack principal, y **Django** como stack secundario para proyectos específicos.  
+Soy **Alejandro Guarín**, desarrollador de software especializado en **desarrollo móvil con Kotlin**.  
+Actualmente me enfoco en crear **aplicaciones Android modernas, seguras y eficientes**, aplicando buenas prácticas de arquitectura y patrones de diseño.  
 
-Bajo la marca **Dev Logic**, desarrollo herramientas internas, dashboards y sistemas empresariales que optimizan la gestión de datos, usuarios y procesos.  
-Mi objetivo es construir plataformas **seguras, rápidas y bien estructuradas** para empresas y proyectos digitales.
+Bajo la marca **Dev Logic**, desarrollo **aplicaciones móviles, herramientas internas y dashboards empresariales**, buscando optimizar procesos y ofrecer experiencias de usuario fluidas.  
+Mi objetivo es construir **apps escalables, robustas y mantenibles**, listas para el mercado y adaptadas a las necesidades de cada proyecto.
 
 ---
 
@@ -29,47 +29,35 @@ Mi objetivo es construir plataformas **seguras, rápidas y bien estructuradas** 
 
 [![Dev Logic](https://img.shields.io/badge/Dev%20Logic-Desarrollo%20de%20Software-blue?style=for-the-badge)](https://github.com/Dev-Logic-Desarrollo-de-software/Dev-Logic-Desarrollo-de-software)
 
-**Dev Logic** es una marca enfocada en el **desarrollo de software a medida**.  
-Creamos **sistemas de backend**, **paneles administrativos** y **dashboards empresariales** para startups, negocios y proyectos internos.  
-Priorizamos el **rendimiento, la seguridad y la escalabilidad** en cada solución.
+**Dev Logic** es una marca enfocada en el **desarrollo de software a medida**, ahora con un fuerte enfoque en **aplicaciones móviles Android**.  
+Creamos **apps nativas, paneles administrativos y dashboards empresariales**, priorizando **rendimiento, seguridad y escalabilidad**.
 
 ---
 
 ## Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,linux,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,postgres,linux&theme=dark" />
 </p>
 
-- **Backend:** Java + Spring Boot  
-- **Base de datos:** PostgreSQL  
-- **Despliegue:** Linux (Ubuntu Server)  
+- **Mobile:** Kotlin + Android Studio  
+- **Backend:** Java + Spring Boot (APIs)  
+- **Base de datos:** PostgreSQL / SQLite  
 - **Control de versiones:** Git y GitHub  
-- **Entorno de trabajo:** VS Code / IntelliJ IDEA  
-
----
-
-## Stack secundario
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django&theme=dark" />
-</p>
-
-- **Backend:** Django REST Framework  
-- **Base de datos:** PostgreSQL  
-- **Despliegue:** Linux  
+- **Despliegue:** Linux / Android Play Store  
+- **Entorno de trabajo:** Android Studio / VS Code  
 
 ---
 
 ## Enfoque profesional
 
-- Desarrollo de **aplicaciones backend escalables**  
-- Implementación de **API RESTful** y servicios web  
-- Creación de **paneles administrativos y dashboards**  
+- Desarrollo de **aplicaciones Android nativas**  
+- Implementación de **API RESTful y servicios móviles**  
+- Integración con **bases de datos locales y remotas**  
+- Creación de **interfaces modernas y responsivas**  
 - Diseño de sistemas con **roles, permisos y autenticación**  
-- **Modelado y gestión de datos** con PostgreSQL  
-- Optimización de procesos y reportes en aplicaciones empresariales  
-- Despliegue y mantenimiento en **entornos Linux**
+- Optimización de procesos y rendimiento en apps móviles  
+- Despliegue y mantenimiento de aplicaciones en **Play Store y servidores Linux**
 
 ---
 
@@ -77,4 +65,4 @@ Priorizamos el **rendimiento, la seguridad y la escalabilidad** en cada solució
 
 - **Correo:** [alejandro.guarin.dev@gmail.com](mailto:alejandro.guarin.dev@gmail.com)  
 - **GitHub:** [ZeroX-Root](https://github.com/ZeroX-Root)  
-- **LinkedIn:** [Alejandro Guarín](https://www.linkedin.com/in/alejandro-guarin-melo/)  
+- **LinkedIn:** [Alejandro Guarín](https://www.linkedin.com/in/alejandro-guarin-melo/)
