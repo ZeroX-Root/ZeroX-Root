@@ -5,60 +5,75 @@
 
 </p>
 
-<h3 align="center">Flutter Developer | Cross-Platform Mobile | Founder @ Dev Logic</h3>
+<h3 align="center">Backend Developer | Python | Automatización</h3>
 
 <p align="center">
-  <a href="mailto:alejandro.guarin.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://github.com/ZeroX-Root"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-  <a href="https://www.linkedin.com/in/alejandro-guarin-melo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:alejandro.guarin.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  <a href="https://github.com/ZeroX-Root">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alejandro-guarin-melo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
 </p>
 
 ---
 
 ## Sobre mí
 
-Soy **Alejandro Guarín**, desarrollador especializado en **aplicaciones móviles con Flutter**.  
+Soy **Alejandro Guarín**, desarrollador **backend** enfocado en **Python** y **automatización**.
 
-Me enfoco en crear **apps modernas para iOS y Android**, optimizando la experiencia de usuario y manteniendo código limpio.  
+Me gusta construir sistemas claros, entendibles y fáciles de mantener.  
+Disfruto trabajar con **lógica, procesos y datos**, priorizando que el código sea **simple, funcional y explicable**.
 
-Bajo la marca **Dev Logic**, desarrollo **aplicaciones móviles y dashboards**, buscando soluciones eficientes y escalables para cada proyecto.
-
----
-
-## Dev Logic
-
-[![Dev Logic](https://img.shields.io/badge/Dev%20Logic-Desarrollo%20de%20Software-blue?style=for-the-badge)](https://github.com/Dev-Logic-Desarrollo-de-software/Dev-Logic-Desarrollo-de-software)
-
-**Dev Logic** es una marca enfocada en el **desarrollo de software a medida**, con especialización en **aplicaciones móviles multiplataforma**.  
-
-Creamos **apps nativas con Flutter, dashboards y soluciones web**, priorizando **rendimiento, diseño y experiencia de usuario**.
+Actualmente estoy enfocado en fortalecer mis bases en backend, creando **APIs, scripts y herramientas de automatización**, con una mentalidad orientada a resolver problemas reales.
 
 ---
 
-## Stack principal
+## En qué me enfoco
+
+- Desarrollo **backend con Python**
+- Creación de **APIs REST**
+- Automatización de tareas y procesos
+- Manejo de bases de datos
+- Escritura de código claro y estructurado
+- Aprendizaje constante y progresivo
+
+---
+
+## Stack actual
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,git,github,vscode&theme=dark" />
 </p>
 
-- **Mobile:** Flutter + Dart  
-- **Backend:** Firebase  
+- **Lenguaje:** Python  
+- **Backend:** FastAPI / Flask  
+- **Bases de datos:** PostgreSQL / SQLite  
+- **Automatización:** Scripts y tareas programadas  
 - **Control de versiones:** Git y GitHub  
-- **Despliegue:** App Store y Google Play Store  
-- **Entorno de trabajo:** VS Code / Android Studio  
+- **Entorno de trabajo:** VS Code  
 
 ---
 
-## Enfoque profesional
+## Filosofía de trabajo
 
-- Desarrollo de **aplicaciones móviles con Flutter** (iOS y Android)  
-- Creación de **interfaces modernas y atractivas**  
-- Integración con **Firebase y bases de datos**  
-- Optimización de **rendimiento y experiencia de usuario**  
-- Publicación de apps en **tiendas oficiales**
+- Prefiero **entender antes que correr**
+- Automatizar antes que repetir
+- Código simple > código complejo
+- Aprender haciendo
+- Avanzar con constancia, no con prisa
+
+---
+
+## Objetivo
+
+Seguir creciendo como **desarrollador backend**, construir proyectos sólidos y, a mediano plazo, aplicar mis conocimientos en áreas como **automatización avanzada y ciberseguridad**.
 
 ---
 
 <p align="center">
-  <i>"Creando experiencias móviles excepcionales"</i>
+  <i>"Automatizando ideas, construyendo sistemas y aprendiendo cada día."</i>
 </p>
