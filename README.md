@@ -5,7 +5,7 @@
 
 </p>
 
-<h3 align="center">Backend Developer | Python | Automatización</h3>
+<h3 align="center">Flutter Developer | Supabase | Web con Nuxt</h3>
 
 <p align="center">
   <a href="mailto:alejandro.guarin.dev@gmail.com">
@@ -23,57 +23,56 @@
 
 ## Sobre mí
 
-Soy **Alejandro Guarín**, desarrollador **backend** enfocado en **Python** y **automatización**.
+Soy **Alejandro Guarín**, desarrollador enfocado en la creación de aplicaciones modernas usando **Flutter, Supabase y tecnologías web**.
 
-Me gusta construir sistemas claros, entendibles y fáciles de mantener.  
-Disfruto trabajar con **lógica, procesos y datos**, priorizando que el código sea **simple, funcional y explicable**.
+Me interesa construir aplicaciones **funcionales, bien estructuradas y pensadas para el usuario**, combinando frontend y backend de forma práctica.
 
-Actualmente estoy enfocado en fortalecer mis bases en backend, creando **APIs, scripts y herramientas de automatización**, con una mentalidad orientada a resolver problemas reales.
+Actualmente estoy enfocado en desarrollar **apps móviles y web**, integrando bases de datos, autenticación y explorando el uso de **inteligencia artificial** en proyectos reales.
 
 ---
 
 ## En qué me enfoco
 
-- Desarrollo **backend con Python**
-- Creación de **APIs REST**
-- Automatización de tareas y procesos
-- Manejo de bases de datos
-- Escritura de código claro y estructurado
-- Aprendizaje constante y progresivo
+- Desarrollo de apps móviles con **Flutter**
+- Integración con **Supabase (auth, database, APIs)**
+- Desarrollo web con **Nuxt**
+- Consumo de APIs
+- Construcción de proyectos completos (frontend + backend)
+- Aprendizaje constante
 
 ---
 
 ## Stack actual
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,vue,nuxt,postgresql,git,github,vscode&theme=dark" />
 </p>
 
-- **Lenguaje:** Python  
-- **Backend:** FastAPI / Flask  
-- **Bases de datos:** PostgreSQL / SQLite  
-- **Automatización:** Scripts y tareas programadas  
+- **Mobile:** Flutter (Dart)  
+- **Backend:** Supabase  
+- **Web:** Nuxt / Vue  
+- **Base de datos:** PostgreSQL  
 - **Control de versiones:** Git y GitHub  
-- **Entorno de trabajo:** VS Code  
+- **Entorno:** VS Code  
 
 ---
 
 ## Filosofía de trabajo
 
-- Prefiero **entender antes que correr**
-- Automatizar antes que repetir
-- Código simple > código complejo
+- Construir proyectos reales
+- Código simple y entendible
 - Aprender haciendo
-- Avanzar con constancia, no con prisa
+- Enfocarme en lo práctico
+- Mejorar constantemente
 
 ---
 
 ## Objetivo
 
-Seguir creciendo como **desarrollador backend**, construir proyectos sólidos y, a mediano plazo, aplicar mis conocimientos en áreas como **automatización avanzada y ciberseguridad**.
+Seguir creciendo como desarrollador, creando aplicaciones completas y, a futuro, especializarme en **apps inteligentes (Flutter + IA)** y soluciones tecnológicas con impacto real.
 
 ---
 
 <p align="center">
-  <i>"Automatizando ideas, construyendo sistemas y aprendiendo cada día."</i>
+  <i>"Construyendo apps, aprendiendo cada día y creando soluciones reales."</i>
 </p>
