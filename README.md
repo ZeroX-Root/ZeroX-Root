@@ -88,19 +88,6 @@ Desarrollo aplicaciones multiplataforma modernas y funcionales.
 
 <br/>
 
-## Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZeroX-Root&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroX-Root&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroX-Root&theme=dark&hide_border=true" alt="streak stats"/>
-</p>
-
-<br/>
-
 ## Enfoque de desarrollo
 
 - Código limpio, legible y mantenible
