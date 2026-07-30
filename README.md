@@ -5,7 +5,7 @@
 
 </p>
 
-<h3 align="center">Flutter Developer | Supabase | Web con Nuxt</h3>
+<h3 align="center">Full Stack Developer | Laravel | Vue | Flutter</h3>
 
 <p align="center">
   <a href="mailto:alejandro.guarin.dev@gmail.com">
@@ -21,58 +21,105 @@
 
 ---
 
-## Sobre mí
+## 👋 Sobre mí
 
-Soy **Alejandro Guarín**, desarrollador enfocado en la creación de aplicaciones modernas usando **Flutter, Supabase y tecnologías web**.
+Soy **Alejandro Guarín**, desarrollador **Full Stack** enfocado en la creación de **sistemas administrativos, aplicaciones web y aplicaciones móviles nativas**.
 
-Me interesa construir aplicaciones **funcionales, bien estructuradas y pensadas para el usuario**, combinando frontend y backend de forma práctica.
+Mi principal stack de desarrollo está basado en **Laravel y Vue**, con el que construyo sistemas web completos, combinando backend, frontend, APIs, autenticación y bases de datos.
 
-Actualmente estoy enfocado en desarrollar **apps móviles y web**, integrando bases de datos, autenticación y explorando el uso de **inteligencia artificial** en proyectos reales.
+También desarrollo **aplicaciones móviles nativas multiplataforma con Flutter**, creando soluciones enfocadas en ofrecer experiencias modernas y funcionales para dispositivos móviles.
 
----
-
-## En qué me enfoco
-
-- Desarrollo de apps móviles con **Flutter**
-- Integración con **Supabase (auth, database, APIs)**
-- Desarrollo web con **Nuxt**
-- Consumo de APIs
-- Construcción de proyectos completos (frontend + backend)
-- Aprendizaje constante
+Me interesa construir software que resuelva **problemas reales**, desarrollando soluciones organizadas, funcionales y adaptadas a las necesidades de cada proyecto.
 
 ---
 
-## Stack actual
+## 🚀 En qué me enfoco
+
+### 🖥️ Sistemas administrativos y aplicaciones web
+
+Desarrollo sistemas completos utilizando principalmente **Laravel y Vue**, orientados a la gestión y administración de negocios y organizaciones.
+
+* Sistemas administrativos
+* Paneles de administración
+* Sistemas de gestión empresarial
+* APIs y servicios backend
+* Autenticación y gestión de usuarios
+* Gestión de roles y permisos
+* Integración de frontend y backend
+* Desarrollo de soluciones personalizadas
+
+### 📱 Aplicaciones móviles nativas
+
+Desarrollo aplicaciones móviles multiplataforma utilizando **Flutter y Dart**, enfocadas en ofrecer experiencias nativas y funcionales para dispositivos móviles.
+
+* Aplicaciones móviles
+* Interfaces modernas
+* Integración con APIs
+* Consumo de servicios backend
+* Desarrollo multiplataforma
+
+---
+
+## 🛠️ Stack tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,vue,nuxt,postgresql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,vue,flutter,dart,postgresql,mysql,git,github,vscode&theme=dark" />
 </p>
 
-- **Mobile:** Flutter (Dart)  
-- **Backend:** Supabase  
-- **Web:** Nuxt / Vue  
-- **Base de datos:** PostgreSQL  
-- **Control de versiones:** Git y GitHub  
-- **Entorno:** VS Code  
+### Backend
+
+* **Laravel**
+* **PHP**
+* Desarrollo de APIs
+* Autenticación
+* Lógica de negocio
+
+### Frontend
+
+* **Vue.js**
+* JavaScript
+* Desarrollo de interfaces web
+
+### Mobile
+
+* **Flutter**
+* **Dart**
+
+### Bases de datos
+
+* **PostgreSQL**
+* **MySQL**
+
+### Herramientas
+
+* **Git**
+* **GitHub**
+* **VS Code**
 
 ---
 
-## Filosofía de trabajo
+## 💡 Filosofía de trabajo
 
-- Construir proyectos reales
-- Código simple y entendible
-- Aprender haciendo
-- Enfocarme en lo práctico
-- Mejorar constantemente
+* Construir soluciones para problemas reales
+* Desarrollar software funcional y mantenible
+* Escribir código limpio y organizado
+* Buscar soluciones simples y eficientes
+* Aprender mediante proyectos reales
+* Mejorar continuamente mis habilidades
 
 ---
 
-## Objetivo
+## 🎯 Objetivo
 
-Seguir creciendo como desarrollador, creando aplicaciones completas y, a futuro, especializarme en **apps inteligentes (Flutter + IA)** y soluciones tecnológicas con impacto real.
+Seguir creciendo como desarrollador **Full Stack**, fortaleciendo mi experiencia en **Laravel y Vue** para la creación de sistemas administrativos y soluciones web completas.
+
+Al mismo tiempo, continuar desarrollando aplicaciones móviles con **Flutter**, ampliando mi capacidad para crear soluciones multiplataforma que conecten aplicaciones móviles con sistemas backend.
+
+Mi objetivo es construir **productos tecnológicos y soluciones de software reales**, capaces de aportar valor a empresas, negocios y usuarios.
 
 ---
 
 <p align="center">
-  <i>"Construyendo apps, aprendiendo cada día y creando soluciones reales."</i>
+  <i>Construyendo sistemas, creando aplicaciones y desarrollando soluciones reales.</i>
 </p>
+
